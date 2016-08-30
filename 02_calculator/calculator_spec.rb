@@ -1,5 +1,5 @@
 # # Topics
-#
+
 # * functions
 # * math
 # * arrays

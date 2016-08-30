@@ -1,7 +1,7 @@
 # # Simon Says
 #
 # ## Topics
-#
+
 # * functions
 # * strings
 # * default parameter values

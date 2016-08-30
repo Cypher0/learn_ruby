@@ -1,5 +1,3 @@
-
-
 def translate string
 	words = string.split
 	result = []
